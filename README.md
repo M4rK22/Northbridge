@@ -9,8 +9,8 @@
 * **Logica Robusta:** Implementazione di eccezioni personalizzate (`MyException`) per la convalida dei dati e la prevenzione di errori di inserimento.
 
 **Futuri aggiornamenti:**
-* **Interfaccia Grafica (GUI):** Evoluzione verso una veste grafica moderna utilizzando Java Swing o JavaFX.
-* **Business Logic:** Introduzione di un modulo per la gestione dei costi fissi e il calcolo automatico del profitto netto.
+* **Interfaccia Grafica (GUI):** Evoluzione verso una grafica moderna utilizzando Java Swing o JavaFX.
+* **Business Logic:** gestione dei costi fissi e il calcolo automatico del profitto netto.
 
 ---
 
@@ -23,5 +23,5 @@
 * **Robust Logic:** Custom exception handling (`MyException`) for data validation and prevention of input errors.
 
 **Future Updates:**
-* **GUI:** Evolution towards a modern graphical interface using Java Swing or JavaFX.
-* **Business Logic:** Introduction of a module for fixed cost management and automatic net profit calculation.
+* **GUI:** modern graphical interface using Java Swing or JavaFX.
+* **Business Logic:** fixed cost management and automatic net profit calculation.
